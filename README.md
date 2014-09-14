@@ -7,3 +7,4 @@ My First Git-hub Repo
 So here it is.
 ## This was added by git in my linux box
 git addition
+new git addition
